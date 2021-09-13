@@ -6,4 +6,4 @@ always @ (A or B) begin                       // (A, B) is the sensitivity list 
     else 
         Y = 1'b1; 
 end
-endmodule                              
+endmodule                                     //used to terminate the module
