@@ -1,4 +1,4 @@
-`include "AND_GATE.v"
+`include "AND.v"
 module AND;
 reg A, B;
 wire Y;
